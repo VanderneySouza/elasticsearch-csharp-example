@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/ElasticsearchCsharp.csproj": {}
+  },
+  "projects": {
+    "/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/ElasticsearchCsharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/ElasticsearchCsharp.csproj",
+        "projectName": "ElasticsearchCsharp",
+        "projectPath": "/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/ElasticsearchCsharp.csproj",
+        "packagesPath": "/home/vanderneysouza/.nuget/packages/",
+        "outputPath": "/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vanderneysouza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
