@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "AFUDrtMQebEdIfMwVk55x5bNikt/e/MqSIx80dhWQ4TgmWR4la3Fv9WGbnOzfgZDUijnOrYfTKkk9uX52/m8lQ==",
+  "dgSpecHash": "fnIy6u0WgBfPZ35+q3yX8jDzzKmAJI63OhYVOCFZ+uGyxm8jTgw7hJ3b2I/VLyv+TCAcIZf6W81lZ8K4SqUMdQ==",
   "success": true,
-  "projectFilePath": "/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/Exemplo 1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/ElasticsearchCsharp.csproj",
+  "expectedPackageFiles": [
+    "/home/vanderneysouza/.nuget/packages/elasticsearch.net/7.10.1/elasticsearch.net.7.10.1.nupkg.sha512",
+    "/home/vanderneysouza/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/home/vanderneysouza/.nuget/packages/nest/7.10.1/nest.7.10.1.nupkg.sha512",
+    "/home/vanderneysouza/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/vanderneysouza/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
