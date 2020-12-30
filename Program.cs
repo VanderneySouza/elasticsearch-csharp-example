@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exemplo_1
+namespace  ElasticsearchCsharp
 {
     class Program
     {
