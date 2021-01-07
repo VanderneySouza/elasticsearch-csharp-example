@@ -6,7 +6,7 @@ namespace  ElasticsearchCsharp
     {
         static void Main(string[] args)
         {
-            
+           Console.WriteLine("Test config!!!");
         }
     }
 }
