@@ -14,3 +14,6 @@
 /home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/obj/Debug/net5.0/ref/ElasticsearchCsharp.dll
 /home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/obj/Debug/net5.0/ElasticsearchCsharp.pdb
 /home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/obj/Debug/net5.0/ElasticsearchCsharp.genruntimeconfig.cache
+/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/bin/Debug/net5.0/Elasticsearch.Net.dll
+/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/bin/Debug/net5.0/Nest.dll
+/home/vanderneysouza/Área de Trabalho/ElasticSearch/Exemplo 1/obj/Debug/net5.0/ElasticsearchCsharp.csproj.CopyComplete
